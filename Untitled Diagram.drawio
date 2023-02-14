@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T07:45:08.849Z" agent="5.0 (Macintosh)" etag="NdH4ey_FoSp7kB4MROUe" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T07:56:32.831Z" agent="5.0 (Macintosh)" etag="zL85hM7znyqj2yUffteF" version="20.8.20" type="github">
   <diagram name="Page-1" id="t4EVRYhD11pjJ2Vkq8i-">
     <mxGraphModel dx="1434" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K94HRNuP3XekMzOQDXey-41" value="Collect Exception Data" style="shape=mxgraph.ibm.box;prType=enterprise;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="550" height="130" as="geometry" />
+          <mxGeometry x="40" y="150" width="550" height="140" as="geometry" />
         </mxCell>
         <mxCell id="K94HRNuP3XekMzOQDXey-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K94HRNuP3XekMzOQDXey-56" target="K94HRNuP3XekMzOQDXey-70">
           <mxGeometry relative="1" as="geometry" />
@@ -98,6 +98,18 @@
         </mxCell>
         <mxCell id="K94HRNuP3XekMzOQDXey-78" value="&lt;div&gt;Exception Report&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cost_and_usage_report;" vertex="1" parent="K94HRNuP3XekMzOQDXey-70">
           <mxGeometry x="78.75" y="40" width="61.51" height="61.51" as="geometry" />
+        </mxCell>
+        <mxCell id="K94HRNuP3XekMzOQDXey-82" value="Fix and reload the data" style="shape=mxgraph.ibm.box;prType=enterprise;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="670" width="547.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="K94HRNuP3XekMzOQDXey-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K94HRNuP3XekMzOQDXey-82" source="K94HRNuP3XekMzOQDXey-87" target="K94HRNuP3XekMzOQDXey-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K94HRNuP3XekMzOQDXey-87" value="&lt;div&gt;Exception Report&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cost_and_usage_report;" vertex="1" parent="K94HRNuP3XekMzOQDXey-82">
+          <mxGeometry x="78.75" y="40" width="61.51" height="61.51" as="geometry" />
+        </mxCell>
+        <mxCell id="K94HRNuP3XekMzOQDXey-88" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="K94HRNuP3XekMzOQDXey-82">
+          <mxGeometry x="230" y="52.26" width="50" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
